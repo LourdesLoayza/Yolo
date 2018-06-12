@@ -1,9 +1,11 @@
-# **YOLO**:
+# YOLO:
 
 Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "You only live one" (Solo se vive una vez). Por ello ofrecemos a nuestros clientes la transformación del banco tradicional al banco digital. De esta forma pueden realizar operaciones de manera más rápida y sencilla. Todo a través del celular. 
 
 ![logo-yolo](https://user-images.githubusercontent.com/32287220/37250330-1638e0ea-24c8-11e8-8fab-0904b8425242.jpg)
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 ## **Equipo de trabajo**
 
