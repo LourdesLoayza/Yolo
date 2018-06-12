@@ -1,4 +1,4 @@
-# YOLO:
+# YOLO
 
 Yolo es la aplicación del Banco el país. Yolo se basa en la filosofía de  "You only live one" (Solo se vive una vez). Por ello ofrecemos a nuestros clientes la transformación del banco tradicional al banco digital. De esta forma pueden realizar operaciones de manera más rápida y sencilla. Todo a través del celular. 
 
